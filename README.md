@@ -1,2 +1,2 @@
-# openassistant-media
-Open Assistant Promotional Material &amp; Marketing
+# oa-media
+Open Assistant graphics, video, icons, and web assets.
